@@ -1,8 +1,14 @@
-This is my an algorithmic composition made during the course of Survey of Music Technology.
+### The Embrace of the Python
 
-It is based on the EarSketch API (http://earsketch.gatech.edu/)
+This is my an algorithmic composition written in Python made during the course of Survey of Music Technology.
 
-An example of a generation can be heard here: https://soundcloud.com/shantix/the-embrace-of-the-python
+It make use of EarSketch API (http://earsketch.gatech.edu/)
+
+An generation example can be heard here: https://soundcloud.com/shantix/the-embrace-of-the-python
+
+### Requirements
+
+Requires a working installation of EarSketch, Python and Reaper (http://www.reaper.fm/).
 
 The provided wav files PIANO_CHORDS_C_MAJOR.wav, PIANO_NOTES_C_MAJOR_SCALE.wav and BASS_NOTES_C_MAJOR_SCALE.wav have to be put into "EarSketch Sounds" directory of your EarSketch installation.
 
