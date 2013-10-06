@@ -62,7 +62,6 @@ note_names = [C1,D1,E1,F1,G1,A1,B1,C2,D2,E2,F2,G2,A2,B2,C3]
 
 # list of corresponding index position in the sound clip
 note_indexes =  range(0,15)
-#[  0,   1,   2,   3,   4,   5,   6,   7,   8,   9,  10,  11,  12,  13,  14]
 
 # dictionary to access to notes through symbolic notation (note dictionary)
 nd = dict(zip(note_names, note_indexes))
@@ -110,7 +109,7 @@ def makeClipSection(clip, track, note_name, note_duration_in_time_base, update_l
     tmp = global_current_location
     if(update_location):
         global_current_location += note_duration_in_time_base * time_base
-    println('----- makeNote end ----')
+    println('----- makeClipSection end ----')
 
 
 
