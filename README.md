@@ -1,6 +1,7 @@
 ### The Embrace of the Python
 
-This is my an algorithmic composition written in Python made during the course of Survey of Music Technology.
+This is my an algorithmic composition written in Python made during the course of Survey of Music Technology. 
+(Actually I didn't insert the code of the audio effect cause I want to focus on the algorithmic generation of the song)
 
 It make use of EarSketch API (http://earsketch.gatech.edu/)
 
