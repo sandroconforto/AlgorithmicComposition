@@ -361,7 +361,7 @@ def makeMelodyTheme():
     makeChordSection(F1,F1,None,16.0,4)
 
 def makeSolo():
-    #  IV I V VI IV II V VI VII(V7) I - chord progression with solo
+    #  VI IV I V VI IV II V VI VII(V7) I - chord progression with solo
     part_duration = 16.0
     part_notes_number = 8
 
